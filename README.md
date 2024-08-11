@@ -1,4 +1,4 @@
-# [Blurb](https://www.twitterbio.io/)
+# [Blurb](https://blurb-k5qd.onrender.com/)
 
 This project generates bios for you using AI.
 
