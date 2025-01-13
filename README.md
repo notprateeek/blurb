@@ -1,4 +1,4 @@
-# [Blurb](https://blurb-k5qd.onrender.com/)
+# [Blurb](https://blurb-notprateeek.netlify.app/)
 
 This project generates bios for you using AI.
 
